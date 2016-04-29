@@ -1,0 +1,4 @@
+﻿  P27 2-4.cpp
+c:\users\godjq\documents\visual studio 2015\projects\c++\例2-4 标准c++的简单程序设计\p27 2-4.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  例2-4 标准C++的简单程序设计.vcxproj -> C:\Users\Godjq\Documents\Visual Studio 2015\Projects\C++\例2-4 标准C++的简单程序设计\Debug\例2-4 标准C++的简单程序设计.exe

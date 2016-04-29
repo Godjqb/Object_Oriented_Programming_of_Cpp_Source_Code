@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  例3-3 private类.cpp
+c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(31): error C2248: “Limit::imprest”: 无法访问 private 成员(在“Limit”类中声明)
+  c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(10): note: 参见“Limit::imprest”的声明
+  c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(8): note: 参见“Limit”的声明
+c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(31): warning C4305: “=”: 从“double”到“float”截断
+c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(32): error C2248: “Limit::warning”: 无法访问 private 成员(在“Limit”类中声明)
+  c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(11): note: 参见“Limit::warning”的声明
+  c:\users\godjq\documents\visual studio 2015\projects\c++\例3-3 private类\例3-3 private类.cpp(8): note: 参见“Limit”的声明
